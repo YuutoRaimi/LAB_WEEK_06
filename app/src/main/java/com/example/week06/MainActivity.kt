@@ -62,6 +62,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.Persian,
+                    "Milo",
+                    "Loves to nap all day",
+                    "https://cdn2.thecatapi.com/images/3Pem6K30P.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Sphynx,
+                    "Luna",
+                    "Playful and curious",
+                    "https://cdn2.thecatapi.com/images/Wd_Py_Mj8.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.MaineCoon,
+                    "Oliver",
+                    "Gentle giant",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.RussianBlue,
+                    "Chloe",
+                    "Smart and shy",
+                    "https://cdn2.thecatapi.com/images/Rgf43IlSd.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.Bengal,
+                    "Simba",
+                    "Adventurous spirit",
+                    "https://cdn2.thecatapi.com/images/LSaDk6OjY.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Siamese,
+                    "Nala",
+                    "Elegant and vocal",
+                    "https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ScottishFold,
+                    "Leo",
+                    "Loves to cuddle",
+                    "https://cdn2.thecatapi.com/images/6lb.jpg"
                 )
             )
         )
